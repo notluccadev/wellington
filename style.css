@@ -1,0 +1,31 @@
+*{
+        /* mexendo pra aula do ivan - wellington nao me mata plssss*/
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ababd8;
+            background-image: url(https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2018/12/fundo-branco6.jpg?fit=2022%2C1173&ssl=1);
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 500px;
+            margin: auto;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #2c3e50;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        
+ 
+}
